@@ -1,4 +1,4 @@
-📊 Global Demand Dashboard – Expansion Insights
+#📊 Global Demand Dashboard – Expansion Insights
 
 This project presents a data-driven analysis of global product demand, helping businesses identify the best markets for expansion. Using Power BI, we explored revenue trends, top-performing countries, high-value customers, and emerging demand regions
 
@@ -26,7 +26,7 @@ Introduce summer campaigns to drive demand in slower months.
 
 Netherlands, Ireland, and Germany lead in revenue.
 Italy and Spain show high demand but lower revenue, suggesting pricing adjustments.
-📌 Business Strategy:
+/n📌 Business Strategy:
 Expand operations in high-performing countries.
 Optimize pricing in high-quantity, low-revenue regions.
 3️⃣ Top 10 Customers by Revenue
